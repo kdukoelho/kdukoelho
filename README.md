@@ -1,4 +1,4 @@
-## Yaee!! Eu sou o Cadu :) É muito bom te ver por aqui!!
+## Whats up!!! I'm Cadu or Cody if you prefer :) Is realy nice see you here!!
 
 <div align="center">
   <a href="https://github.com/kdukoelho">
