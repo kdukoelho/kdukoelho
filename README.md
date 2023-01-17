@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdukoelho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdukoelho&layout=compact&langs_count=7&theme=outrun"/>
 
- <img src="https://user-images.githubusercontent.com/86522822/212957094-cd7c3cc8-ca3b-4416-b898-aedc779a7e6e.gif" width="420" height="420" align="middle">
+![joão-frango](https://user-images.githubusercontent.com/86522822/212957094-cd7c3cc8-ca3b-4416-b898-aedc779a7e6e.gif)
     
   ##
  
