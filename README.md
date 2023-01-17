@@ -1,5 +1,7 @@
 ## Whats up!!! I'm Cadu :) Is realy nice see you here!!
 
+![joão-frango](https://user-images.githubusercontent.com/86522822/212957094-cd7c3cc8-ca3b-4416-b898-aedc779a7e6e.gif)
+
 <div align="center">
   <a href="https://github.com/kdukoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdukoelho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
