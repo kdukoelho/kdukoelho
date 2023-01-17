@@ -1,4 +1,4 @@
-## Hey, whats up!!! I'm Cadu! Is realy nice see you here!! :)
+## Hey, whats up!! Im called Cadu, is really nice see you here!! :)
 
 ![joão-frango](https://user-images.githubusercontent.com/86522822/212957094-cd7c3cc8-ca3b-4416-b898-aedc779a7e6e.gif)
 
