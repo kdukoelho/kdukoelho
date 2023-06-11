@@ -1,6 +1,9 @@
-## Hey, whats up!! Im Cadu, is really nice see you here!! :)
+# Hi, comrade!!
+<div align="center">
+<img src="/joao frango.gif" width="40%" align="middle">
+</div>
 
-<img src=https://user-images.githubusercontent.com/86522822/212957094-cd7c3cc8-ca3b-4416-b898-aedc779a7e6e.gif" width=80%>
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 <div align="center">
   <a href="https://github.com/kdukoelho">
