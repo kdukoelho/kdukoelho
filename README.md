@@ -1,7 +1,14 @@
 
 <div align="center">
   <h1>Hi, comrade!!</h1>
+  <p><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45"></p>
   <img src="/joao frango.gif" width="40%" align="middle">
+  <p>
+    </br>
+    <a href="https://www.linkedin.com/in/carlos-coelho-3a6a1a241/" alt="Linkedin" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/carlos-coelho-3a6a1a241/"/> </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ce.figueiredoc@gmail.com" alt="Email" target="_blank"> <img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF&link=https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ce.figueiredoc@gmail.com"> </a>
+  <a href="https://www.instagram.com/kdukoelho" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF&link=https://www.instagram.com/kdukoelho" target="_blank"></a>
+  </p>
 </div>
 
 <div>
