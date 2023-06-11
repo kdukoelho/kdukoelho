@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hi, comrade!!</h1>
+  <h1>Hi, comrade!</h1>
   <p><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45"></p>
   <img src="/joao frango.gif" width="40%" align="middle">
   <p>
