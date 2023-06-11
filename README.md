@@ -8,9 +8,9 @@
   <h2>Who am I?</h2>
   <ul>
     <li>First of all: a very grateful person for the existence of <a href="https://github.com/gustavoguanabara">Gustavo Guanabara</a>;</li>
-    <li>A believer who has plans to improve the society using the technology.</li>
+    <li>A believer who has plans to improve the society using the technology;</li>
     <li>Software engineering student at Brasília University;</li>
-    <li>Back-end developer in love with OOP since 2021;</li>
+    <li>Back-end developer in love with OOP since 2021.</li>
   </ul>
 </div>
 
