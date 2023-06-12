@@ -16,7 +16,7 @@
   <ul>
     <li>First of all: a very grateful person for the existence of <a href="https://github.com/gustavoguanabara">Gustavo Guanabara</a>;</li>
     <li>A believer who has plans to improve the society using the technology;</li>
-    <li>Software engineering student at Brasília University;</li>
+    <li>Software engineering student at <a href="https://www.unb.br/">University of Brasília</a>;</li>
     <li>Back-end developer in love with OOP since 2021.</li>
   </ul>
 </div>
