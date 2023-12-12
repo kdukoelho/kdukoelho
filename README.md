@@ -14,7 +14,7 @@
 <div>
   <h2>Who am I?</h2>
   <ul>
-    <li>First of all: a grateful person for the existence of <a href="https://github.com/gustavoguanabara" target="_blank">Gustavo Guanabara</a>;</li>
+    <li>First of all: a grateful person for the existence of my master <a href="https://github.com/gustavoguanabara" target="_blank">Gustavo Guanabara</a>;</li>
     <li>A believer who has plans to improve the society using the technology;</li>
     <li>Software engineering student at <a href="https://www.unb.br/" target="_blank">University of Brasília</a>;</li>
     <li>Back-end developer in love with OOP since 2021.</li>
