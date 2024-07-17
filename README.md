@@ -14,8 +14,8 @@
 <div>
   <h2>Who am I?</h2>
   <ul>
-    <li>First of all: a grateful person for the existence of my master <a href="https://github.com/gustavoguanabara" target="_blank">Gustavo Guanabara</a>;</li>
-    <li>A humble believer who has plans to improve human development using technology;</li>
+    <li>A boy coming from the interior of Rio de Janeiro with the ambition of conquering the world.;</li>
+    <li>A believer who has plans to improve the human development using technology;</li>
     <li>Software engineering student at <a href="https://www.unb.br/" target="_blank">University of Brasília</a>.</li>
   </ul>
 </div>
