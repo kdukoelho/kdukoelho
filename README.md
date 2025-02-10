@@ -15,7 +15,7 @@
   <h2>Who am I?</h2>
   <ul>
     <li>A boy coming from the interior of Rio de Janeiro with the ambition of conquering the world;</li>
-    <li>A believer who has plans to improve the humananity using technology;</li>
+    <li><a href="https://www.linkedin.com/company/capitalrocketteam/" target="_blank">Capital Rocket Team</a> avionics core member;</li>
     <li>Software engineering student at <a href="https://www.unb.br/" target="_blank">University of Brasília</a>.</li>
   </ul>
 </div>
